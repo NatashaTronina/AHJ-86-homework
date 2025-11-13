@@ -1,1 +1,1 @@
-[![ENV](https://github.com/NatashaTronina/AHJ-86-homework/env/actions/workflows/web.yml/badge.svg)](https://github.com/NatashaTronina/AHJ-86-homework/env/actions/workflows/web.yml)
+![ENV](https://github.com/NatashaTronina/AHJ-86-homework/actions/workflows/web.yml/badge.svg)
