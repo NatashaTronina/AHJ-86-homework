@@ -1,6 +1,6 @@
 # Репозиторий для всех домашних заданий на модуле AHJ-86
 ## Организация работы, события и DOM
-1) [Рабочее окружение](https://github.com/NatashaTronina/AHJ-86-homework/tree/main/1-Рабочее%20окружение)
+1) [Рабочее окружение](https://github.com/NatashaTronina/AHJ-86-homework/tree/main/env)
 2) [DOM]()
 3) [Обработка событий]()
 4) [Организация тестирования]()
